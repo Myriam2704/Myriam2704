@@ -1,8 +1,8 @@
 # Hola 👋 soy Myriam Candel
 
-🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW)
+ Estudiante de Desarrollo de Aplicaciones Web (DAW)
 
-💻 Tecnologías que estoy aprendiendo
+ Tecnologías que estoy aprendiendo
 
 - Java
 - SQL
@@ -11,24 +11,24 @@
 - JavaScript
 - Git
 
-🚀 Actualmente trabajando en
+ Actualmente trabajando en
 
 - proyectos de programación
 - bases de datos
 - desarrollo web
 
-📚 Actualmente estudiando
+ Actualmente estudiando
 
 - Programación
 - Bases de datos
 - Sistemas informáticos
 - Entornos de desarrollo
 
-🎯 Objetivo
+ Objetivo
 
 Convertirme en desarrolladora web y trabajar creando aplicaciones útiles para empresas.
 
-## 🛠 Tecnologías
+##  Tecnologías
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
@@ -39,12 +39,12 @@ Convertirme en desarrolladora web y trabajar creando aplicaciones útiles para e
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Myriam2704&show_icons=true)
 
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Myriam2704)
