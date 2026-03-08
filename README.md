@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hola 👋 soy Myriam Candel
 
-<!--
-**Myriam2704/Myriam2704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW)
 
-Here are some ideas to get you started:
+💻 Tecnologías que estoy aprendiendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- SQL
+- HTML
+- CSS
+- JavaScript
+- Git
+
+🚀 Actualmente trabajando en
+
+- proyectos de programación
+- bases de datos
+- desarrollo web
+
+📚 Actualmente estudiando
+
+- Programación
+- Bases de datos
+- Sistemas informáticos
+- Entornos de desarrollo
+
+🎯 Objetivo
+
+Convertirme en desarrolladora web y trabajar creando aplicaciones útiles para empresas.
