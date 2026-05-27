@@ -122,25 +122,18 @@ public class Myriam {
 
 ---
 
-## 🏆 Trofeos GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Myriam2704&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="trofeos" />
-</div>
-
-<br/>
-
----
-
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Myriam2704&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=e94560&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myriam2704&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=ffffff" />
+  <img src="https://streak-stats.demolab.com/?user=Myriam2704&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=e94560&fire=e94560&currStreakLabel=6AD3F7&sideLabels=ffffff&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="streak stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Myriam2704&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=e94560&fire=e94560&currStreakLabel=6AD3F7&sideLabels=ffffff&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="streak stats"/>
+  <img src="https://img.shields.io/badge/Contribuciones_2025-34-6AD3F7?style=for-the-badge&logo=github&logoColor=white" alt="contribuciones"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Repos_públicos-4-e94560?style=for-the-badge&logo=github&logoColor=white" alt="repos"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Lenguaje_principal-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="lenguaje"/>
 </div>
 
 <br/>
@@ -150,15 +143,13 @@ public class Myriam {
 ## 🚀 Proyectos destacados
 
 <div align="center">
-  <a href="https://github.com/Myriam2704/java-oop-exercises">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Myriam2704&repo=java-oop-exercises&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=ffffff&icon_color=e94560" />
-  </a>
-  <a href="https://github.com/Myriam2704/tema4-refactoring">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Myriam2704&repo=tema4-refactoring&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=ffffff&icon_color=e94560" />
-  </a>
-  <a href="https://github.com/Myriam2704/primer-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Myriam2704&repo=primer-repo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=ffffff&icon_color=e94560" />
-  </a>
+
+[![java-oop-exercises](https://img.shields.io/badge/📁_java--oop--exercises-Ejercicios_de_POO_en_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Myriam2704/java-oop-exercises)
+
+[![tema4-refactoring](https://img.shields.io/badge/📁_tema4--refactoring-Refactoring_con_Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Myriam2704/tema4-refactoring)
+
+[![primer-repo](https://img.shields.io/badge/📁_primer--repo-Primer_repositorio_en_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Myriam2704/primer-repo)
+
 </div>
 
 <br/>
