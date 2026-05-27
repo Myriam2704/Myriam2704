@@ -1,8 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════
-     INSTRUCCIONES: Sustituye Myriam2704 por tu usuario real
-     en TODAS las URLs de este archivo antes de subir.
-     ═══════════════════════════════════════════════════════════ -->
-
 <!-- HEADER ANIMADO -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Myriam%20Candel&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Desarrolladora%20Web%20Full%20Stack%20%7C%20DAW%20%7C%20Java%20%7C%20XML&descAlignY=58&descSize=18&descColor=a8d8ff" />
@@ -11,7 +6,7 @@
 <!-- TYPING ANIMATION -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=650&lines=Desarrolladora+Web+Full+Stack;Azure+AZ-900+%7C+Scrum+%7C+Power+BI;React+%2B+Node.js+%2B+Docker;11+a%C3%B1os+de+experiencia+empresarial;Proxima+parada%3A+NTT+Data+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=650&lines=Desarrolladora+Web+Full+Stack;Azure+AZ-900+%7C+Scrum+%7C+Power+BI;React+%2B+Node.js+%2B+Docker;11+anos+de+experiencia+empresarial;Proxima+parada%3A+NTT+Data+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -35,16 +30,16 @@ public class Myriam {
 
     String nombre      = "Myriam Candel";
     String titulo      = "Técnica Superior en DAW";
-    String ubicacion   = "Murcia, España 🇪🇸";
+    String ubicacion   = "Murcia, España";
     String empresa     = "11 años de experiencia en empresa del sector";
-    String objetivo    = "Consultora en NTT Data 🚀";
+    String objetivo    = "Consultora en NTT Data";
 
     String[] aprendiendo = {
-        "Azure AZ-900 ☁️",
-        "Scrum Master SFC 🔄",
-        "Power BI 📊",
-        "React + Node.js ⚛️",
-        "Docker 🐳"
+        "Azure AZ-900",
+        "Scrum Master SFC",
+        "Power BI",
+        "React + Node.js",
+        "Docker"
     };
 
     String frase = "Del ERP empresarial al desarrollo full stack.";
@@ -127,10 +122,20 @@ public class Myriam {
 
 ---
 
+## 🏆 Trofeos GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Myriam2704&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="trofeos" />
+</div>
+
+<br/>
+
+---
+
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Myriam2704&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=e94560&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Myriam2704&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=e94560&text_color=ffffff&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myriam2704&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=ffffff" />
 </div>
 
@@ -144,14 +149,15 @@ public class Myriam {
 
 ## 🚀 Proyectos destacados
 
-<!-- Cambia Myriam2704 y los nombres de repos por los tuyos reales -->
-
 <div align="center">
-  <a href="https://github.com/Myriam2704/proyecto-daw-fullstack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Myriam2704&repo=proyecto-daw-fullstack&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=ffffff&icon_color=e94560" />
+  <a href="https://github.com/Myriam2704/java-oop-exercises">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Myriam2704&repo=java-oop-exercises&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=ffffff&icon_color=e94560" />
   </a>
-  <a href="https://github.com/Myriam2704/dashboard-powerbi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Myriam2704&repo=dashboard-powerbi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=ffffff&icon_color=e94560" />
+  <a href="https://github.com/Myriam2704/tema4-refactoring">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Myriam2704&repo=tema4-refactoring&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=ffffff&icon_color=e94560" />
+  </a>
+  <a href="https://github.com/Myriam2704/primer-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Myriam2704&repo=primer-repo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=ffffff&icon_color=e94560" />
   </a>
 </div>
 
