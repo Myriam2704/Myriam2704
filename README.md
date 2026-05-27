@@ -135,7 +135,7 @@ public class Myriam {
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Myriam2704&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=e94560&text_color=ffffff&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Myriam2704&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=e94560&text_color=ffffff" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myriam2704&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=ffffff" />
 </div>
 
