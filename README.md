@@ -1,7 +1,7 @@
-<!-- âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+<!-- ═══════════════════════════════════════════════════════════
      INSTRUCCIONES: Sustituye Myriam2704 por tu usuario real
      en TODAS las URLs de este archivo antes de subir.
-     âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ -->
+     ═══════════════════════════════════════════════════════════ -->
 
 <!-- HEADER ANIMADO -->
 <div align="center">
@@ -28,23 +28,23 @@
 
 ---
 
-## ð©âð» Sobre mÃ­
+## 👩‍💻 Sobre mí
 
 ```java
 public class Myriam {
 
     String nombre      = "Myriam Candel";
-    String titulo      = "TÃ©cnica Superior en DAW";
-    String ubicacion   = "Murcia, EspaÃ±a ðªð¸";
-    String empresa     = "11 aÃ±os de experiencia en empresa del sector";
-    String objetivo    = "Consultora en NTT Data ð";
+    String titulo      = "Técnica Superior en DAW";
+    String ubicacion   = "Murcia, España 🇪🇸";
+    String empresa     = "11 años de experiencia en empresa del sector";
+    String objetivo    = "Consultora en NTT Data 🚀";
 
     String[] aprendiendo = {
-        "Azure AZ-900 âï¸",
-        "Scrum Master SFC ð",
-        "Power BI ð",
-        "React + Node.js âï¸",
-        "Docker ð³"
+        "Azure AZ-900 ☁️",
+        "Scrum Master SFC 🔄",
+        "Power BI 📊",
+        "React + Node.js ⚛️",
+        "Docker 🐳"
     };
 
     String frase = "Del ERP empresarial al desarrollo full stack.";
@@ -55,7 +55,7 @@ public class Myriam {
 
 ---
 
-## ð ï¸ Stack tecnolÃ³gico
+## 🛠️ Stack tecnológico
 
 ### Lenguajes
 <div>
@@ -69,7 +69,7 @@ public class Myriam {
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </div>
 
-### Frameworks & LibrerÃ­as
+### Frameworks & Librerías
 <div>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
@@ -106,28 +106,28 @@ public class Myriam {
 
 ---
 
-## ð Certificaciones & FormaciÃ³n
+## 🎓 Certificaciones & Formación
 
 <div align="center">
 
-| Estado | CertificaciÃ³n | Emisor | Fecha |
+| Estado | Certificación | Emisor | Fecha |
 |:---:|---|---|:---:|
-| â | **TÃ©cnica Superior DAW** â Desarrollo de Aplicaciones Web | FP EspaÃ±a | 2025 |
-| ð | **AZ-900** â Azure Fundamentals | Microsoft | Jun 2025 |
-| ð | **SFC** â Scrum Fundamentals Certified | ScrumStudy | Jun 2025 |
-| ð | **PL-300** â Power BI Data Analyst | Microsoft | Jul 2025 |
-| ð | **React + Node.js Full Stack** | Udemy | Ago 2025 |
-| ð | **Docker** â Contenedores y DevOps | CÃ³digo Facilito | Sep 2025 |
+| ✅ | **Técnica Superior DAW** — Desarrollo de Aplicaciones Web | FP España | 2025 |
+| 🔄 | **AZ-900** — Azure Fundamentals | Microsoft | Jun 2025 |
+| 🔄 | **SFC** — Scrum Fundamentals Certified | ScrumStudy | Jun 2025 |
+| 📅 | **PL-300** — Power BI Data Analyst | Microsoft | Jul 2025 |
+| 📅 | **React + Node.js Full Stack** | Udemy | Ago 2025 |
+| 📅 | **Docker** — Contenedores y DevOps | Código Facilito | Sep 2025 |
 
 </div>
 
-> â Obtenida &nbsp;|&nbsp; ð En progreso &nbsp;|&nbsp; ð Planificada
+> ✅ Obtenida &nbsp;|&nbsp; 🔄 En progreso &nbsp;|&nbsp; 📅 Planificada
 
 <br/>
 
 ---
 
-## ð EstadÃ­sticas de GitHub
+## 📊 Estadísticas de GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Myriam2704&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=e94560&text_color=ffffff" />
@@ -142,7 +142,7 @@ public class Myriam {
 
 ---
 
-## ð Proyectos destacados
+## 🚀 Proyectos destacados
 
 <!-- Cambia Myriam2704 y los nombres de repos por los tuyos reales -->
 
@@ -159,7 +159,7 @@ public class Myriam {
 
 ---
 
-## ð Actividad
+## 📈 Actividad
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Myriam2704&bg_color=0D1117&color=6AD3F7&line=e94560&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
@@ -169,7 +169,7 @@ public class Myriam {
 
 ---
 
-## ð ConÃ©ctate conmigo
+## 🌐 Conéctate conmigo
 
 <div align="center">
   <a href="https://linkedin.com/in/myriam-candel">
