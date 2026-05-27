@@ -11,7 +11,7 @@
 <!-- TYPING ANIMATION -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=650&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Desarrolladora+Web+Full+Stack;%E2%98%81%EF%B8%8F+Estudiando+Azure+AZ-900+%7C+Scrum+%7C+Power+BI;%E2%9A%9B%EF%B8%8F+React+%2B+Node.js+%2B+Docker;%F0%9F%8F%A2+11+a%C3%B1os+de+experiencia;%F0%9F%9A%80+Pr%C3%B3xima+parada%3A+NTT+Data" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=650&lines=Desarrolladora+Web+Full+Stack;Azure+AZ-900+%7C+Scrum+%7C+Power+BI;React+%2B+Node.js+%2B+Docker;11+a%C3%B1os+de+experiencia+empresarial;Proxima+parada%3A+NTT+Data+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
